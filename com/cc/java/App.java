@@ -12,6 +12,7 @@ public class App {
 	public static void main(String[] args) {
 		
 		// Deklarationen
+		// test
 		Random rand = new Random();
 		int min  = 1, max = 49, slots = 6;
 		int[] lotteryArray = new int[slots];
